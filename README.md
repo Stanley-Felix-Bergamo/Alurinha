@@ -9,7 +9,7 @@
 <p>
 Este projeto foi realizado nas aulas do Curso da Alura.
 <a href="https://www.alura.com.br/"><br><br>
-<img align="center" alt="HTML" height="40" width="50" src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg">&nbsp;
+<img align="center" alt="HTML" height="40" width="50" src="https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs=w240-h480-rw">&nbsp;
 Alura
 </a>
 
